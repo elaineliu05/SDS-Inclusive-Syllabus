@@ -6,18 +6,21 @@
 
     * Class Location:
 
-Office Hours:
+    * Office Hours:
 
 Course Materials: [Course textbook](https://www.google.com/)
 
-**Disclaimer**: This is a condensed version of the full syllabus - more information can be found in the folders in this repository. I aim to make the class more inclusive, starting with an easy-to-read, short document that outlines the basic information of this course. I encourage all students to reach out anytime if you are facing issues with anything, especially regarding inclusivity.
+**Disclaimer**: This is a condensed version of the full syllabus - more information can be found in the other files in this repository. I aim to make the class more inclusive, starting with an easy-to-read, short document that outlines the basic information of this course. I encourage all students to reach out anytime if you are facing issues with anything, especially regarding inclusivity.
 
 ## A Little Bit About the Course
-Insert brief summary of course. I.e. Course goals and learning objectives
-* What do you hope students will take away from this class? **We encourage instructors to personalize this syllabus with their own voice.**
+Insert brief summary of course. For instance, include course goals and learning objectives.
+* What do you hope students will take away from this class?
+**We encourage instructors to personalize this syllabus with their own voice.**
 
 ## Attendance Policy - Optional
-Insert attendance policy if applicable. 
+Insert attendance policy - is attendance or class participation mandatory? If not, this section may not be necessary. 
+* Will points be deducted if students miss a class?
+* Will there be online recordings posted?
 
 ## Grading Components
 |  	      | Points | % of Total Grade | 
@@ -40,7 +43,9 @@ Insert attendance policy if applicable.
 | F  |  |  
 
 ## Examination Information
-Insert exam information. For example, 
+Insert exam information. 
+
+For example, 
 * Midterm Exam - topics 1,2,3,4
 * Final Exam - topics 5,6,7,8
 
