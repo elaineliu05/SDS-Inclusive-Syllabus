@@ -13,7 +13,7 @@ Course Materials: [Course textbook](https://www.google.com/)
 **Disclaimer**: This is a condensed version of the full syllabus - more information can be found in the folders in this repository. I aim to make the class more inclusive, starting with an easy-to-read, short document that outlines the basic information of this course. I encourage all students to reach out anytime if you are facing issues with anything, especially regarding inclusivity.
 
 ## A Little Bit About the Course
-Insert brief summary/goal of course. 
+Insert brief summary of course. I.e. Course goals and learning objectives
 * What do you hope students will take away from this class? **We encourage instructors to personalize this syllabus with their own voice.**
 
 ## Attendance Policy - Optional
