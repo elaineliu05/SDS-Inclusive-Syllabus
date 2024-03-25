@@ -15,10 +15,13 @@ Course Materials: [Course textbook](https://www.google.com/)
 ## A Little Bit About the Course
 Insert brief summary of course. For instance, include course goals and learning objectives.
 * What do you hope students will take away from this class?
+
 **We encourage instructors to personalize this syllabus with their own voice.**
 
 ## Attendance Policy - Optional
 Insert attendance policy - is attendance or class participation mandatory? If not, this section may not be necessary. 
+
+Things to think about:
 * Will points be deducted if students miss a class?
 * Will there be online recordings posted?
 
@@ -50,7 +53,9 @@ For example,
 * Final Exam - topics 5,6,7,8
 
 ## Grading Policy
-Insert grading policy. Some things to note - are there any curves? any extra credit opportunities?
+Insert grading policy. 
+
+Some things to note - are there any curves? any extra credit opportunities?
 
 ## AI Policy
 Insert AI policy. This is especially important since different classes have different views on using generative AI in the classroom. Please clearly outline what is and is not allowed so that students understand what is in violation of the Honor Code. 
