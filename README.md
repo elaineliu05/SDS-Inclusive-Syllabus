@@ -10,7 +10,7 @@
 
 Course Materials: [Course textbook](https://www.google.com/)
 
-**Disclaimer**: This is a condensed version of the full syllabus - more information can be found in the other files in this repository. I aim to make the class more inclusive, starting with an easy-to-read, short document that outlines the basic information of this course. I encourage all students to reach out anytime if you are facing issues with anything, especially regarding inclusivity.
+**Disclaimer**: This is a condensed version of the full syllabus - more information can be found in the other files in this repository. I aim to make the class more inclusive, starting with an easy-to-read, short document that outlines the basic information of this course.  If you are facing issues with accessibility or inclusivity, I encourage you all to reach out to me anytime. 
 
 ## A Little Bit About the Course
 Insert brief summary of course. For instance, include course goals and learning objectives.
