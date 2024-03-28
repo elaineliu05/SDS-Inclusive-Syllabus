@@ -52,6 +52,8 @@ For example,
 * Midterm Exam - topics 1,2,3,4
 * Final Exam - topics 5,6,7,8
 
+If you do not currently have information about exams, when will you send that out (rough estimate)? 
+
 ## Grading Policy
 Insert grading policy. 
 
